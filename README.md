@@ -25,6 +25,8 @@
 - These visuals supports day, night and even rain modes.
 
 - It also has productivity tools like Todo list and Pomodoro Timer.
+  
+-  Leveraging **cdn.js** for fast and reliable access to assets hosted on my ***<a href="https://github.com/ItzAshOffcl/lofi-resources" target="_blank" >lofi-resources</a>*** github repository. 
 
 
 ### Built With
