@@ -9,6 +9,7 @@
   <br />
   <img src="https://img.shields.io/website?url=https://orion-lofi.web.app" />
   <img src="https://img.shields.io/badge/React-17+-blue" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-2.0+-646CFF" alt="Vite" />
   <hr />
 </div>
 
@@ -26,13 +27,12 @@
 
 - It also has productivity tools like Todo list and Pomodoro Timer.
   
--  Leveraging **cdn.js** for fast and reliable access to assets hosted on my ***<a href="https://github.com/ItzAshOffcl/lofi-resources" target="_blank" >lofi-resources</a>*** github repository. 
-
+-  Leveraging **jsDelivr** for fast and reliable access to assets hosted on my ***<a href="https://github.com/ItzAshOffcl/lofi-resources" target="_blank" >lofi-resources</a>*** Github repository. 
 
 ### Built With
 This project was built with
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind)]()
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,vite)]()
 
 <!-- Features -->
 ### Features
